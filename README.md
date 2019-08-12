@@ -8,10 +8,6 @@ This project shows how to implement [Stripe Elements](https://stripe.com/payment
 
 - [Charges API](https://stripe.com/docs/charges) reference implementation in [this folder](charges-api)
 
-#### Payment success
+#### Payment success and failure
 
-![Elements modal](payment-request-api/payment-request-3d-secure.gif)
-
-#### Payment declined
-
-![Elements modal payment declined](payment-request-api/payment-request-3d-secure-fail.gif)
+<img src="payment-request-api/payment-request-3d-secure.gif" width="433"><img src="payment-request-api/payment-request-3d-secure-fail.gif" width="433">
